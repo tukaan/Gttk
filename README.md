@@ -6,6 +6,8 @@ Gttk is a theme extension for Tcl/Tk, that uses Gtk 2 to draw widgets. Thus a Tk
 
 Source code is licensed under the terms of the MIT license. Binaries are licensed under GNU LGPL v2.1.
 
+![image](https://user-images.githubusercontent.com/77941087/163607640-9d6b1be7-e846-414a-9630-d345f2d5b83c.png)
+
 
 ## Build
 A Tcl/Tk installation is required for build.
